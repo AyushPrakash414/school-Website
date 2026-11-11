@@ -1,0 +1,1 @@
+Place your approved school video here, for example school-intro.mp4, then update gallery.html video source to videos/school-intro.mp4.
