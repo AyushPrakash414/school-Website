@@ -7,6 +7,7 @@ A responsive, animated school website built with modern HTML5, CSS3 animations, 
 * **School Motto:** *"Love One Another"*
 * **Student Leadership Motto:** *"Leadership · Responsibility · Service"*
 * **Four Houses:** Red House, Blue House, Green House, Yellow House (inspired by the quadrants of the school crest)
+* **Project Prepared By:** Astha Mishra (Class 10-B, Roll No. 03)
 
 ---
 
@@ -29,6 +30,7 @@ A responsive, animated school website built with modern HTML5, CSS3 animations, 
 * `images (3).jpg` — Inter-house floral Rangoli competition (swan-and-lotus petal art).
 * `images (4).jpg` — Primary / Middle school creative craft workshop.
 * `839874103_1095808553418046_1845739914169268052_n.jpg` — Dedicated faculty members on campus.
+* `astha-mishra.webp` / `Astha Mishra.webp` — Photo of Astha Mishra (Roll No. 3), creator and developer of the project.
 
 ---
 
